@@ -365,5 +365,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **George S Mulbah** <[Nicks](https://github.com/sir-george2500)>
+* **George S Mulbah** <[Sir-George](https://github.com/sir-george2500)>
 
